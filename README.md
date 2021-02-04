@@ -1,7 +1,14 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **thiagogcv/thiagogcv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#Thiago Costa
+
+##Studant Developer Front End
+
+[Linkedin Badge](https://linkedin.com/in/thiagogcv)
 
 Here are some ideas to get you started:
 

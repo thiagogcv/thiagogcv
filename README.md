@@ -7,7 +7,7 @@
 
 # Thiago Costa
 
-## Studant Developer Front End
+## Studant Developer Front End 👨🏾‍💻 
 
 Here are some ideas to get you started:
 

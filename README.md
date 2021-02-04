@@ -9,6 +9,12 @@
 
 ## Studant Developer Front End 👨🏾‍💻 
 
+<!-- Social Networks -->
+<p align="left">
+	<a href="https://www.linkedin.com/in/thiagogcv/" target="_black"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Thiago%20Costa-blue?&style=plastic&logo=Linkedin&logoColor=white" title="Linkedin Badge" /></a>
+	<a href="mailto:thiagogcv@gmail.com" target="_black"><img alt="Gmail Badge" src="https://img.shields.io/badge/-thiagogcv@gmail.com-c14438?&style=plastic&logo=Gmail&logoColor=white" title="Gmail Badge" /></a>
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

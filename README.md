@@ -7,7 +7,7 @@
 
 # Thiago Costa
 
-## Studant Developer Front End 👨🏾‍💻 
+## Developer Front End 👨🏾‍💻 
 
 <!-- Social Networks -->
 <p align="left">

@@ -1,9 +1,9 @@
 
-# Thiago Vargas - Engenheiro de Dados
+# Thiago Vargas - Engenheiro de Dados e Automação RPA
 
 ## Sobre
 
-Olá! Eu sou Thiago Vargas, um Engenheiro de Dados em formação apaixonado por transformar dados em insights valiosos. Adquirindo experiência em Python, SQL, Databricks, AWS e Azure, eu construo pipelines de dados robustos e escaláveis, garantindo alta qualidade e performance em soluções de dados.
+Olá! Eu sou Thiago Vargas, um Engenheiro de Dados em formação apaixonado por transformar dados em insights valiosos. Adquirindo experiência em Python, SQL, Databricks, AWS e Azure, eu construo pipelines de dados robustos e escaláveis, garantindo alta qualidade e performance em soluções de dados. Atuo também com desenvolvedor RPA com Python, Blue Prism, UiPath, Automation Anywhere  e Microsoft Power Automate
 
 ## Habilidades Técnicas
 
